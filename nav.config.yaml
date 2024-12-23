@@ -27,7 +27,7 @@ password: admin
 port: 7777
 
 # 收录通知邮箱
-email: ''
+email: '2191333524@qq.com'
 
 # 自有部署邮件通知系统
 mailConfig:
